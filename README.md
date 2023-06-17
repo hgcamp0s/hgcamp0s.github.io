@@ -5,7 +5,7 @@ Este é o repositório do meu portfólio pessoal. Você pode acessar o site clic
 <p align="center">
   <a href="https://hgcamp0s.github.io/" target="_blank">
     <img 
-         src="https://github.com/hgcamp0s/hgcamp0s.github.io/blob/hg-pages/Image/portfolio.gif?raw=true" 
+         src="https://github.com/hgcamp0s/hgcamp0s.github.io/blob/hg-pages/Images/portfolio.gif?raw=true"
          alt="Portfolio" 
     />
   </a>
