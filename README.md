@@ -22,7 +22,6 @@
   - [JQuery CDN](http://code.jquery.com/ "JQuery CDN")
   - [Google Fonts](https://fonts.google.com/ "Google Fonts")
   - [cdnjs](https://cdnjs.com/ "cdnjs")
-  - [Hosting Sites for Free](https://www.youtube.com/watch?v=w_2pxwIS1yY "Hosting Sites for Free")
   - [Infinity Free](https://app.infinityfree.net/ "Infinity Free")
   - [Monsta FTP](http://binottotecnologia.com.br/ftp-web/ "Monsta FTP")
   
