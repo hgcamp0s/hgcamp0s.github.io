@@ -2,6 +2,7 @@
 
 Este é o repositório do meu portfólio pessoal. Você pode acessar o site clicando no link abaixo:
 
+(./Images/portfolio.GIF)
 [Meu Portfólio](https://lucasrmagalhaes.github.io/)
 
 ## Seções
