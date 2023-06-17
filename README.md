@@ -1,7 +1,3 @@
-# Meu Portfólio
-
-Este é o repositório do meu portfólio pessoal. Você pode acessar o site clicando no link abaixo:
-
 <p align="center">
   <a href="https://hgcamp0s.github.io/" target="_blank">
     <img 
