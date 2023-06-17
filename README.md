@@ -6,7 +6,7 @@
     />
   </a>
   <br />
-  <i><a href="https://github.com/hgcamp0s/hgcamp0s.github.io/tree/hg-pages">My Website</a></i>
+  <i><a href="https://github.com/hgcamp0s/hgcamp0s.github.io/tree/hg-pages">Project</a></i>
 </p>
 
 <hr />
