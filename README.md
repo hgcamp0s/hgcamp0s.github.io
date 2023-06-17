@@ -2,8 +2,16 @@
 
 Este é o repositório do meu portfólio pessoal. Você pode acessar o site clicando no link abaixo:
 
-(./Images/portfolio.GIF)
-[Meu Portfólio](https://lucasrmagalhaes.github.io/)
+<p align="center">
+  <a href="https://hgcamp0s.github.io/" target="_blank">
+    <img 
+         src="https://github.com/hgcamp0s/hgcamp0s.github.io/blob/hg-pages/Image/portfolio.gif?raw=true" 
+         alt="Portfolio" 
+    />
+  </a>
+  <br />
+  <i><a href="https://github.com/hgcamp0s/hgcamp0s.github.io/tree/hg-pages">Project</a></i>
+</p>
 
 ## Seções
 
